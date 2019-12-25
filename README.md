@@ -1,4 +1,4 @@
-# HTML-Begineer
+# HTML-Beginner
 
 HTML - HyperText Markup Language
 
