@@ -17,3 +17,6 @@ joelonsoftware unicode(for unicode deep Learning).
 <!--<br> - self closing tag -->
 
 <!--<hr size="3"> where it consists of HTML element and HTML attribute-->
+
+<!--<a href = "www.androidpillars.com">AndroidPillars</a> where it consists of HTML element, attribute, link destination
+and link Text-->
