@@ -24,5 +24,5 @@ joelonsoftware unicode(for unicode deep Learning).
 
 - hr size="3" where it consists of HTML element and HTML attribute
 
-- a href = "www.androidpillars.com">AndroidPillars</a> where it consists of HTML element, attribute, link destination
+- a href = "www.androidpillars.com" where it consists of HTML element, attribute, link destination
 and link Text
