@@ -4,6 +4,10 @@ HTML - HyperText Markup Language
 
 Development Tools: Codepen.io, atom.io
 
+Plugins: Linter, beautify
+
+Plugin Installation: File -> Settings -> install
+
 Documentation: w3schools, mdn, https://docs.emmet.io/cheat-sheet/
 
 Referrence: 
