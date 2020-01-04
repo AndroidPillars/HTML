@@ -4,7 +4,7 @@ HTML - HyperText Markup Language
 
 Development Tools: Codepen.io, atom.io
 
-Plugins: Linter, beautify
+Plugins: Linter, atom-beautify
 
 Plugin Installation: File -> Settings -> install
 
