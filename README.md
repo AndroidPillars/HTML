@@ -25,6 +25,12 @@
 - Notepad++(Windows)
 - TextMate(Mac)
 
+# IDE
+
+- Codepen.io
+- atom.io
+- https://code.visualstudio.com/
+
 # Points to Remember
 
 - It does not need a Server.
@@ -38,12 +44,12 @@
 
 # Tag Syntax
 
-- Element names surroned by angle brackets.
+- Element names surrouned by angle brackets.
 - Normally comes in pairs(start tag and end tag)
 ```ruby
 <tagname>content</tagname>
 ```
-- Some tags close themselves(i.e)Self closing
+- Some tags close themselves(i.e)Self closing tag
 ```ruby
 <br>
 ```
@@ -63,11 +69,12 @@
 </html>
 ```
 
-# IDE
+# Element and Attribute
 
-- Codepen.io
-- atom.io
-- https://code.visualstudio.com/
+```ruby
+<hr size="3">
+```
+- where hr is the HTML element and size="3" is the HTML attribute.
 
 # Documentation References
 
@@ -81,18 +88,17 @@ Plugins: Linter, atom-beautify
 Plugin Installation: File -> Settings -> install 
 
 # Referrence: 
-web.archive.org(for checking old websites), 
-http://www.fileformat.info/info/charset/UTF-8/list.htm (for utf character list), 
-http://www.unicodetables.com/(for unicode tables), 
-joelonsoftware unicode(for unicode deep Learning).
+
+- web.archive.org(for checking old websites)
+- http://www.fileformat.info/info/charset/UTF-8/list.htm
+- http://www.unicodetables.com/(for unicode tables) 
+- joelonsoftware unicode(for unicode deep Learning).
 
 # Syntax:
 
 - h1 where it consists of starttag, content and closetag.
 
 - br - self closing tag
-
-- hr size="3" where it consists of HTML element and HTML attribute
 
 - a href = "www.androidpillars.com" where it consists of HTML element, attribute, link destination
 and link Text
