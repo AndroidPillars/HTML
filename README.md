@@ -1,5 +1,3 @@
-# HTML-Beginner
-
 # HTML
 
 - Hyper Text Markup Language 
