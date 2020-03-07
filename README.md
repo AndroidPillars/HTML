@@ -95,7 +95,8 @@ __where,__
 
 # Plugins
 
-- html5 boilerplate
+- HTML Boilerplate
+- Prettier
 
 # Boilerplate code
 
