@@ -74,6 +74,7 @@
 - https://www.w3schools.com/html/
 - https://developer.mozilla.org/en-US/
 - https://docs.emmet.io/cheat-sheet/
+- https://devdocs.io/html/
 
 Plugins: Linter, atom-beautify
 
