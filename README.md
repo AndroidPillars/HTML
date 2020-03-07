@@ -60,6 +60,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="utf-8">
+    <meta name="description" content="HTML Tutorial">
     <title>Document</title>
 </head>
 <body>
@@ -68,6 +70,13 @@
 </body>
 </html>
 ```
+- where __<!DOCTYPE html>__ indicates the version of HTML.
+- __html__ -> indicates this is the html file.
+- __head__ -> It holds the information about web page and it tells the browser how to handle the page.
+- __title__ -> It defines title of the document.
+_ __meta__ -> Meta elements gives extra meta data or associated data to your HTML document.
+- __UTF-8__ -> 
+- __meta__ data also give information to search engines about the content website.
 
 # Element and Attribute
 
@@ -83,22 +92,17 @@
 - https://docs.emmet.io/cheat-sheet/
 - https://devdocs.io/html/
 
-Plugins: Linter, atom-beautify
+# Plugins
 
-Plugin Installation: File -> Settings -> install 
+- html5 boilerplate
 
-# Referrence: 
+# Boilerplate
 
-- web.archive.org(for checking old websites)
-- http://www.fileformat.info/info/charset/UTF-8/list.htm
-- http://www.unicodetables.com/(for unicode tables) 
-- joelonsoftware unicode(for unicode deep Learning).
+- It is a unit of writing that can be reused over and over without change. 
 
-# Syntax:
+# Reference: 
 
-- h1 where it consists of starttag, content and closetag.
-
-- br - self closing tag
-
-- a href = "www.androidpillars.com" where it consists of HTML element, attribute, link destination
-and link Text
+- web.archive.org (for checking old websites)
+- http://www.fileformat.info/info/charset/UTF-8/list.htm (Character List for UTF-8)
+- http://www.unicodetables.com/ (for unicode tables) 
+- joelonsoftware unicode (for unicode deep Learning).
