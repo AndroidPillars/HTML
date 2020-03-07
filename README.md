@@ -63,15 +63,21 @@
 </html>
 ```
 
-HTML - HyperText Markup Language
+# IDE
 
-Development Tools: Codepen.io, atom.io
+- Codepen.io
+- atom.io
+- https://code.visualstudio.com/
+
+# Documentation References
+
+- https://www.w3schools.com/html/
+- https://developer.mozilla.org/en-US/
+- https://docs.emmet.io/cheat-sheet/
 
 Plugins: Linter, atom-beautify
 
-Plugin Installation: File -> Settings -> install
-
-Documentation: w3schools, mdn, https://docs.emmet.io/cheat-sheet/
+Plugin Installation: File -> Settings -> install 
 
 # Referrence: 
 web.archive.org(for checking old websites), 
