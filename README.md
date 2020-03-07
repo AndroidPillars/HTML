@@ -74,7 +74,7 @@
 ```ruby
 <hr size="3">
 ```
-- where hr is the HTML element and size="3" is the HTML attribute.
+- where __hr__ is the __HTML element__ and __size="3"__ is the __HTML attribute__.
 
 # Documentation References
 
