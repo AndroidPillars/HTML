@@ -96,9 +96,10 @@ _ __meta__ -> Meta elements gives extra meta data or associated data to your HTM
 
 - html5 boilerplate
 
-# Boilerplate
+# Boilerplate code
 
-- It is a unit of writing that can be reused over and over without change. 
+- It is a unit of writing that can be reused over and over without change.
+- In Other words, it's simply a code template which we can reuse.
 
 # Reference: 
 
