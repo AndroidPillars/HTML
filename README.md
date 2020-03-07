@@ -70,13 +70,13 @@
 </body>
 </html>
 ```
-- where __<!DOCTYPE html>__ indicates the version of HTML.
+- where __DOCTYPE html__ indicates the version of HTML.
 - __html__ -> indicates this is the html file.
 - __head__ -> It holds the information about web page and it tells the browser how to handle the page.
 - __title__ -> It defines title of the document.
-_ __meta__ -> Meta elements gives extra meta data or associated data to your HTML document.
-- __UTF-8__ -> 
-- __meta__ data also give information to search engines about the content website.
+_ __meta__ -> Meta elements gives extra meta data or associated data to your HTML document. In theis case we tell the broswer when it opens up the file all the text inside our web page is encoded using the UTF-8 encoding system.
+- __meta__ -> Meta data also give information to search engines about the content website.
+
 
 # Element and Attribute
 
