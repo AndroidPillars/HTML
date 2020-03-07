@@ -86,6 +86,22 @@ __where,__
 ```
 - where __hr__ is the __HTML element__ and __size="3"__ is the __HTML attribute__.
 
+# Boilerplate code
+
+- It is a unit of writing that can be reused over and over without change.
+- In Other words, it's simply a code template which we can reuse.
+
+# To Type Emojis
+
+- On  Mac -> Command + control + space
+- On Windows -> Place the cursor in any text field in chrome, Microsoft or Notepad -> WIN + . (or) WIN + ;
+
+# Plugins
+
+- HTML Boilerplate
+- Prettier
+- Material Icon Theme
+
 # Documentation References
 
 - https://www.w3schools.com/html/
@@ -93,17 +109,8 @@ __where,__
 - https://docs.emmet.io/cheat-sheet/
 - https://devdocs.io/html/
 
-# Plugins
 
-- HTML Boilerplate
-- Prettier
-
-# Boilerplate code
-
-- It is a unit of writing that can be reused over and over without change.
-- In Other words, it's simply a code template which we can reuse.
-
-# Reference: 
+# Tools Reference: 
 
 - web.archive.org (for checking old websites)
 - http://www.fileformat.info/info/charset/UTF-8/list.htm (Character List for UTF-8)
