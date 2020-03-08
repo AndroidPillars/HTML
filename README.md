@@ -145,7 +145,6 @@ __where,__
 | ``` <div> ``` | division or a section |
 | ``` <form> ``` | form elements |
 | ``` <input> ``` | input field |
-| ``` <input> ``` | input field |
 | ``` <label> ``` | text label |
 | ``` <textarea> ``` | input text over multiple rows |
 
