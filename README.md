@@ -123,6 +123,24 @@ __where,__
 ```ruby
 <div>, <h1> - <h6>, <p>, <form>
 ```
+# Common Syntax
+| Syntax	 | Descriptions |
+| --------	 | ------------ |
+| ``` <p> ``` |	paragraph |
+| ``` <h1> - <h6> ``` |	Headings |
+| ``` <hr> ``` | horizontal rule |
+| ``` <br> ``` | single line break |
+| ``` <meta> ``` | meta data |
+| ``` <li> ``` | list item |
+| ``` <ol> ``` | orderd list |
+| ``` <ul> ``` | unordered list |
+| ``` <th> ``` | header cells |
+| ``` <td> ``` | standard cell |
+| ``` <thead> ``` | head of the columns |
+| ``` <th> ``` | header cells |
+| ``` <tr> ``` | table row |
+| ``` <tbody> ``` | body content |
+
 
 # Plugins
 
