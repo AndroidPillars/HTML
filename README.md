@@ -137,6 +137,15 @@ __where,__
 <section></section>
 <details></details>
 ```
+__where__
+- The header element specifies a header for a document or section.
+- The footer element specifies a footer for a document or section.
+- The aside element defines some content aside from the content it is placed in (like a sidebar).
+- The main element Specifies the main content of a document.
+- The article element specifies independent, self-contained content.
+- The nav element defines a set of navigation links.
+- The section element defines a section in a document.
+- Defines additional details that the user can view or hide.
 
 
 # Common Syntax
