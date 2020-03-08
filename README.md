@@ -147,6 +147,11 @@ __where,__
 | ``` <input> ``` | input field |
 | ``` <label> ``` | text label |
 | ``` <textarea> ``` | input text over multiple rows |
+| ``` <blockquote> ``` | section - quoted from another source |
+| ``` <a> ``` | Anchor Element |
+| ``` <img> ``` | Insert Image |
+| ``` <abbr> ``` |  abbreviation or an acronym |
+| ``` <cite> ``` | Italic style |
 
 
 # Plugins
