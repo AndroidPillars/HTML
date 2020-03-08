@@ -140,6 +140,14 @@ __where,__
 | ``` <th> ``` | header cells |
 | ``` <tr> ``` | table row |
 | ``` <tbody> ``` | body content |
+| ``` <font> ``` | font face |
+| ``` <object> ``` | embedded object |
+| ``` <div> ``` | division or a section |
+| ``` <form> ``` | form elements |
+| ``` <input> ``` | input field |
+| ``` <input> ``` | input field |
+| ``` <label> ``` | text label |
+| ``` <textarea> ``` | input text over multiple rows |
 
 
 # Plugins
