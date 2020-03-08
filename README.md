@@ -96,6 +96,24 @@ __where,__
 - On  Mac -> Command + control + space
 - On Windows -> Place the cursor in any text field in chrome, Microsoft or Notepad -> WIN + . (or) WIN + ;
 
+# Inline vs Block Level Elements
+
+# Inline Elements
+
+- Do not start on a new line.
+- Take only necessary width.
+```ruby
+<span>, <img>, <a>
+```
+
+# Block Elements
+
+- Start on a new line.
+- Take full width available.
+```ruby
+<div>, <h1> - <h6>, <p>, <form>
+```
+
 # Plugins
 
 - HTML Boilerplate
