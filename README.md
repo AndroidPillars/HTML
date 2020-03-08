@@ -86,6 +86,16 @@ __where,__
 ```
 - where __hr__ is the __HTML element__ and __size="3"__ is the __HTML attribute__.
 
+# Tag Attributes
+
+- Provides information about an element.
+- Placed with in the start tag.
+- Key/Value pairs(id="someId")
+
+```ruby
+<tagname attributename="attributevalue">content</tagname>
+```
+
 # Boilerplate code
 
 - It is a unit of writing that can be reused over and over without change.
