@@ -123,6 +123,22 @@ __where,__
 ```ruby
 <div>, <h1> - <h6>, <p>, <form>
 ```
+# Semantic Tags
+
+- A Semantic element clearly describes its meaning to both the browser and the Developer.
+
+```ruby
+<header></header>
+<footer></footer>
+<aside></aside>
+<main></main>
+<artcile></article>
+<nav></nav>
+<section></section>
+<details></details>
+```
+
+
 # Common Syntax
 | Syntax	 | Descriptions |
 | --------	 | ------------ |
