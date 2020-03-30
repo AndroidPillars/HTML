@@ -3,6 +3,10 @@
 | S.No | Content |
 | --------	 | ------------ |
 | 1 | [HTML](README.md#html) |
+| 2 | [Web Browser](README.md#web-browser) |
+| 3 | [Text Editor](README.md#text-editor) |
+| 4 | [IDE](README.md#ide) |
+| 5 | [Points to Remember](README.md#points-to-remember) |
 
 
 # HTML
