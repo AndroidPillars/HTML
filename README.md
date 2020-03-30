@@ -7,7 +7,21 @@
 | 3 | [Text Editor](README.md#text-editor) |
 | 4 | [IDE](README.md#ide) |
 | 5 | [Points to Remember](README.md#points-to-remember) |
-
+| 6 | [Common Errors](README.md#common-errors) |
+| 7 | [Tag Syntax](README.md#tag-syntax) |
+| 8 | [HTML Page Structure](README.md#html-page-structure) |
+| 9 | [Element and Attribute](README.md#element-and-attribute) |
+| 10 | [Tag Attributes](README.md#tag-attributes) |
+| 11 | [Boilerplate code](README.md#boilerplate-code) |
+| 12 | [To Type Emojis](README.md#to-type-emojis) |
+| 13 | [Inline vs Block Level Elements](README.md#inline-vs-block-level-elements) |
+| 14 | [Inline Elements](README.md#inline-elements) |
+| 15 | [Block Elements](README.md#block-elements) |
+| 16 | [Semantic Tags](README.md#semantic-tags) |
+| 17 | [Common Syntax](README.md#common-syntax) |
+| 18 | [Plugins](README.md#plugins) |
+| 19 | [Documentation References](README.md#documentation-references) |
+| 20 | [Tools Reference](README.md#tools-reference) |
 
 # HTML
 
@@ -204,7 +218,7 @@ __where,__
 - https://devdocs.io/html/
 
 
-# Tools Reference: 
+# Tools Reference
 
 - web.archive.org (for checking old websites)
 - http://www.fileformat.info/info/charset/UTF-8/list.htm (Character List for UTF-8)
