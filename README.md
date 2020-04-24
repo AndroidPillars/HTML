@@ -70,11 +70,13 @@
 # Tag Syntax
 
 - Element names surrouned by angle brackets.
-- Normally comes in pairs(start tag and end tag)
+- Normally comes in pairs(start tag and end tag)  
+   &nbsp;  
   ```ruby
   <tagname>content</tagname>
  ```
-- Some tags close themselves(i.e)Self closing tag
+- Some tags close themselves(i.e)Self closing tag  
+   &nbsp;  
   ```ruby
   <br>
   ```
@@ -116,10 +118,10 @@ __where,__
 - Provides information about an element.
 - Placed with in the start tag.
 - Key/Value pairs(id="someId")
-
-```ruby
-<tagname attributename="attributevalue">content</tagname>
-```
+  &nbsp;  
+  ```ruby
+  <tagname attributename="attributevalue">content</tagname>
+  ```
 
 # Boilerplate code
 
@@ -150,27 +152,27 @@ __where,__
 ```
 # Semantic Tags
 
-- A Semantic element clearly describes its meaning to both the browser and the Developer.
-
-```ruby
-<header></header>
-<footer></footer>
-<aside></aside>
-<main></main>
-<artcile></article>
-<nav></nav>
-<section></section>
-<details></details>
-```
-__where,__
-- The header element specifies a header for a document or section.
-- The footer element specifies a footer for a document or section.
-- The aside element defines some content aside from the content it is placed in (like a sidebar).
-- The main element Specifies the main content of a document.
-- The article element specifies independent, self-contained content.
-- The nav element defines a set of navigation links.
-- The section element defines a section in a document.
-- Defines additional details that the user can view or hide.
+- A Semantic element clearly describes its meaning to both the browser and the Developer.  
+  &nbsp;  
+  ```ruby
+  <header></header>
+  <footer></footer>
+  <aside></aside>
+  <main></main>
+  <artcile></article>
+  <nav></nav>
+  <section></section>
+  <details></details>
+  ```
+  __where,__
+  - The header element specifies a header for a document or section.
+  - The footer element specifies a footer for a document or section.
+  - The aside element defines some content aside from the content it is placed in (like a sidebar).
+  - The main element Specifies the main content of a document.
+  - The article element specifies independent, self-contained content.
+  - The nav element defines a set of navigation links.
+  - The section element defines a section in a document.
+  - Defines additional details that the user can view or hide.
 
 
 # Common Syntax
