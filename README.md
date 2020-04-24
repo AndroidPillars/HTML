@@ -71,13 +71,13 @@
 
 - Element names surrouned by angle brackets.
 - Normally comes in pairs(start tag and end tag)
-```ruby
-<tagname>content</tagname>
-```
+  ```ruby
+  <tagname>content</tagname>
+ ```
 - Some tags close themselves(i.e)Self closing tag
-```ruby
-<br>
-```
+  ```ruby
+  <br>
+  ```
 
 # HTML Page Structure
 
