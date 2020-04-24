@@ -71,10 +71,10 @@
 
 - Element names surrouned by angle brackets.
 - Normally comes in pairs(start tag and end tag)  
-   &nbsp;  
+  &nbsp;  
   ```ruby
   <tagname>content</tagname>
- ```
+  ```
 - Some tags close themselves(i.e)Self closing tag  
    &nbsp;  
   ```ruby
@@ -117,7 +117,7 @@ __where,__
 
 - Provides information about an element.
 - Placed with in the start tag.
-- Key/Value pairs(id="someId")
+- Key/Value pairs(id="someId")  
   &nbsp;  
   ```ruby
   <tagname attributename="attributevalue">content</tagname>
