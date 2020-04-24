@@ -138,18 +138,20 @@ __where,__
 # Inline Elements
 
 - Do not start on a new line.
-- Take only necessary width.
-```ruby
-<span>, <img>, <a>
-```
+- Take only necessary width.  
+  &nbsp;  
+  ```ruby
+  <span>, <img>, <a>
+  ```
 
 # Block Elements
 
 - Start on a new line.
-- Take full width available.
-```ruby
-<div>, <h1> - <h6>, <p>, <form>
-```
+- Take full width available.  
+  &nbsp;  
+  ```ruby
+  <div>, <h1> - <h6>, <p>, <form>
+  ```
 # Semantic Tags
 
 - A Semantic element clearly describes its meaning to both the browser and the Developer.  
